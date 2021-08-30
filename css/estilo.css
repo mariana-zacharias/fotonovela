@@ -1,0 +1,26 @@
+body{
+
+	background-color: whitesmoke;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+h1 {
+	color: #0000CD;
+	text-align: center;
+}
+
+h2 {
+	color: #4169E1;
+}
+p{
+	font-size: 18;
+	text-align: justify;
+}
+img{
+	width: 60%;
+}
+figure{
+
+	text-align: center;
+}
